@@ -1,3 +1,4 @@
+#20250613 - Friday thirdteenth
 20250607: > Repo này được mình fork từ ethers.js để học Web3
 The Ethers Project
 Start learning day by day from here
